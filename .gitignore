@@ -7,6 +7,9 @@
 .metadata
 bin/
 tmp/
+target/
+*.jar
+*.war
 *.tmp
 *.bak
 *.swp
@@ -15,6 +18,7 @@ local.properties
 .classpath
 .settings/
 .loadpath
+.springBeans
 
 # External tool builders
 .externalToolBuilders/
